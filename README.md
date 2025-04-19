@@ -1,16 +1,20 @@
-## Hi there 👋
+### ¡Hola! 👋 Soy Juan Sebastián Cardona  
 
-<!--
-**Sebaswolf31/Sebaswolf31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 💻 Backend Developer en formación  
+- Actualmente soy **desarrolador FullStack Junior**, enfocado en Backend.
+- Estudiante de **Henry** con pasión por aprender tecnologías cloud (AWS) y continuar adquiriendo conocimientos.  
 
-Here are some ideas to get you started:
+#### 🛠️ Tecnologías que uso:  
+- **Lenguajes:** TypeScript, JavaScript.  
+- **Frameworks/Tools:** Git.
+- **Bases de datos:** MySQL, PostgreSQL.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 Proyectos destacados:  
+1. **[API REST de e-commerce backend](https://github.com/Sebaswolf31)**  
+   - API para gestión de usuarios con autenticación JWT, pedir turnos.   
+
+
+#### 📫 Contáctame:  
+- LinkedIn: [Juan Sebastián Cardona](https://www.linkedin.com/in/juan-sebastian-cardona-595449261/)  
+- Correo: [sebasunivercal@gmail.com]  
+
