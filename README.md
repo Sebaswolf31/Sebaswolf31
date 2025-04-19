@@ -11,7 +11,16 @@
 
 #### 🔭 Proyectos destacados:  
 1. **[API REST de e-commerce backend](https://github.com/Sebaswolf31)**  
-   - API para gestión de usuarios con autenticación JWT, pedir turnos.   
+   - API para gestión de usuarios con autenticación JWT, pedir turnos.
+
+
+### 📈 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebaswolf31&show_icons=true&theme=dark" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebaswolf31&layout=compact&theme=dark" width="48%">
+</p>
+
+---
 
 
 #### 📫 Contáctame:  
