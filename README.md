@@ -1,5 +1,4 @@
 ### ¡Hola! 👋 Soy Juan Sebastián Cardona
-
 #### 💻 FullStack Developer 
 - Actualmente soy **desarrolador FullStack Junior**, enfocado en Backend.
 - Estudiante de **Henry** con pasión por aprender tecnologías cloud (AWS) y continuar adquiriendo conocimientos.  
