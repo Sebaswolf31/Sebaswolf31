@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Soy Juan Sebastián Cardona  
+### ¡Hola! 👋 Soy Juan Sebastián Cardona
 
 #### 💻 Backend Developer en formación  
 - Actualmente soy **desarrolador FullStack Junior**, enfocado en Backend.
