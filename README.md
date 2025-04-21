@@ -1,30 +1,66 @@
-### ¡Hola! 👋 Soy Juan Sebastián Cardona ###
-#### 💻 FullStack Developer ###
-- Actualmente soy **desarrolador FullStack Junior**, enfocado en Backend.
-- Estudiante de **Henry** con pasión por aprender tecnologías cloud (AWS) y continuar adquiriendo conocimientos.  
+<!-- README.md for Sebaswolf31 GitHub Profile -->
 
-#### 🛠️ Tecnologías que uso:  
-- **Lenguajes:** TypeScript, JavaScript.  
-- **Frameworks/Tools:** Git.
-- **Bases de datos:** MySQL, PostgreSQL.  
-
-#### 🔭 Proyectos destacados:  
-1. **[API REST de e-commerce backend](https://github.com/Sebaswolf31/e-commerce)**  
-   - API de e-commerce, desde el backend para realizar ordenes de compras, productos, todo esto con usuarios y sus respectivos accesos.
-2.  **[API REST ExtremeGym](https://github.com/Sebaswolf31/ExtremeGym)**
-   - API ExtremeGym, con tecnologías de nestjs y next, también con deploy, **(https://pf-extreme-gym.vercel.app/)**
-
-
-### 📈 Estadísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebaswolf31&show_icons=true&theme=dark" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebaswolf31&layout=compact&theme=dark" width="45%">
+  <img src="https://raw.githubusercontent.com/Sebaswolf31/Sebaswolf31/main/assets/banner.png" alt="banner" width="800"/>
+</p>
+
+# 👋 Hola, soy Juan Sebastián (Sebaswolf31)
+**Full Stack Developer** | **NestJS** | **Next.js** | **React** | **TypeScript**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebaswolf31-blue)](https://www.linkedin.com/in/Sebaswolf31) [![Twitter](https://img.shields.io/badge/Twitter-@Sebaswolf31-blue?logo=twitter)](https://twitter.com/Sebaswolf31) [![Email](https://img.shields.io/badge/Email-sebas@example.com-red?logo=gmail)](mailto:sebas@example.com)
+
+---
+
+## 🚀 Acerca de mí
+- 🔥 Apasionado por la arquitectura de microservicios y el desarrollo de APIs con **NestJS**
+- 🌐 Experiencia en **Next.js** y **React** para interfaces SPA/SSR
+- ⚙️ Integración de autenticación (JWT, OAuth) y pasarelas de pago (Stripe, PayPal, Epayco)
+- ☁️ Despliegue en **Docker**, **Vercel** y **AWS**
+- 🎯 En constante aprendizaje de **DevOps** y **pruebas automatizadas**
+
+---
+
+## 🛠️ Habilidades
+
+| Backend                   | Frontend            | DevOps / DB       |
+| ------------------------- | ------------------- | ----------------- |
+| ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) NestJS | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) React.js      | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) TS | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) Next.js | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)      |
+| ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) Express.js | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)|
+
+---
+
+## 🏆 Proyectos Destacados
+
+| Proyecto                            | Descripción                                                      | Tech Stack                          | Demo / Repo        |
+| ---------------------------------- | ---------------------------------------------------------------- | ----------------------------------- | ------------------ |
+| **Extreme Gym**                     | Plataforma de gestión de gimnasio con reservas, pagos y chat     | NestJS, Next.js, Tailwind, Docker   | [Repo](https://github.com/Sebaswolf31/PF-Extreme-Gym)  |
+| **E-commerce Backend**              | API RESTful para tienda en línea con CRUD de productos y órdenes | NestJS, TypeORM, PostgreSQL         | [Repo](https://github.com/Sebaswolf31/ecommerce-backend) |
+
+
+---
+
+## 📈 Estadísticas y Contribuciones
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebaswolf31&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebaswolf31&layout=compact&hide=python" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sebaswolf31&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
+## 📫 Contacto
 
-#### 📫 Contáctame:  
-- LinkedIn: [Juan Sebastián Cardona](https://www.linkedin.com/in/juan-sebastian-cardona-595449261/)  
-- Correo: [sebasunivercal@gmail.com]  
+- 📧 Email: sebas@example.com
+- 💼 LinkedIn: [Sebaswolf31](https://www.linkedin.com/in/Sebaswolf31)
+
+
+> _"La única forma de hacer un gran trabajo es amar lo que haces."_
+
+<!-- Fin del README -->
+
 
