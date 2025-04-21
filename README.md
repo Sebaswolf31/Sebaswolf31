@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sebaswolf31/Sebaswolf31/raw/main/assets/banner.png" alt="banner" width="80%"/>
+  <img src="https://github.com/Sebaswolf31/Sebaswolf31/blob/main/banner.png" alt="banner" width="80%"/>
 </p>
 
 # 👋 Hola, soy Juan Sebastián (Sebaswolf31)
