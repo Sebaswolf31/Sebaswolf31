@@ -7,7 +7,7 @@
 # 👋 Hola, soy Juan Sebastián (Sebaswolf31)
 **Full Stack Developer** | **NestJS** | **Next.js** | **React** | **TypeScript**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebaswolf31-blue)](https://www.linkedin.com/in/juan-sebastian-cardona-595449261/) [![Email](https://img.shields.io/badge/Email-sebasunivercal@gmail.com.com-red?logo=gmail)](mailto:sebas@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebaswolf31-blue)](https://www.linkedin.com/in/juan-sebastian-cardona-595449261/) [![Email](https://img.shields.io/badge/Email-sebasunivercal@gmail.com-red?logo=gmail)](mailto:sebas@example.com)
 
 ---
 
@@ -56,7 +56,7 @@
 ## 📫 Contacto
 
 - 📧 Email: sebasunivercal@hotmail.com || sebasunivercal@gmail.com 
-- 💼 LinkedIn: [Sebaswolf31]([https://www.linkedin.com/in/Sebaswolf31](https://www.linkedin.com/in/juan-sebastian-cardona-595449261/))
+- 💼 LinkedIn: [Sebaswolf31]([https://www.linkedin.com/in/juan-sebastian-cardona-595449261]
 
 
 > _"La única forma de hacer un gran trabajo es amar lo que haces."_
