@@ -60,25 +60,29 @@
 
 ---
 
-## 📈 Estadísticas y Contribuciones
+## 📊 Estadísticas y Contribuciones
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebaswolf31&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebaswolf31&layout=compact&hide=python" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <!-- Contador de visitas mejorado -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Sebaswolf31.Sebaswolf31&title=Visitas+al+perfil" alt="Visitor Count"/>
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Sebaswolf31&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebaswolf31&layout=compact&hide=python&theme=radical&hide_title=true" alt="Top Languages"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sebaswolf31&theme=radical&hide_border=true" alt="GitHub Streak"/></td>
+  </tr>
+</table>
 
 ---
+
 
 ## 📫 Contacto
 
 <a href="mailto:sebasunivercal@gmail.com"><img src="https://img.shields.io/badge/Gmail-sebasunivercal@gmail.com-red?logo=gmail&logoColor=white" alt="Gmail"/></a> 
 <a href="https://www.linkedin.com/in/juan-sebastian-cardona-595449261/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sebaswolf31&color=blue" alt="Profile Views"/>
+</p>
 
 
 > _"La única forma de hacer un gran trabajo es amar lo que haces."_
