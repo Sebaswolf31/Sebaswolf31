@@ -7,7 +7,7 @@
 # 👋 Hola, soy Juan Sebastián (Sebaswolf31)
 **Full Stack Developer** | **NestJS** | **Next.js** | **React** | **TypeScript**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebaswolf31-blue)](https://www.linkedin.com/in/Sebaswolf31) [![Twitter](https://img.shields.io/badge/Twitter-@Sebaswolf31-blue?logo=twitter)](https://twitter.com/Sebaswolf31) [![Email](https://img.shields.io/badge/Email-sebas@example.com-red?logo=gmail)](mailto:sebas@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebaswolf31-blue)](https://www.linkedin.com/in/juan-sebastian-cardona-595449261/) [![Email](https://img.shields.io/badge/Email-sebasunivercal@gmail.com.com-red?logo=gmail)](mailto:sebas@example.com)
 
 ---
 
@@ -15,7 +15,7 @@
 - 🔥 Apasionado por la arquitectura de microservicios y el desarrollo de APIs con **NestJS**
 - 🌐 Experiencia en **Next.js** y **React** para interfaces SPA/SSR
 - ⚙️ Integración de autenticación (JWT, OAuth) y pasarelas de pago (Stripe, PayPal, Epayco)
-- ☁️ Despliegue en **Docker**, **Vercel** y **AWS**
+- ☁️ Despliegue en  **Vercel**, en aprendizaje de **Docker** y **AWS**
 - 🎯 En constante aprendizaje de **DevOps** y **pruebas automatizadas**
 
 ---
@@ -34,8 +34,8 @@
 
 | Proyecto                            | Descripción                                                      | Tech Stack                          | Demo / Repo        |
 | ---------------------------------- | ---------------------------------------------------------------- | ----------------------------------- | ------------------ |
-| **Extreme Gym**                     | Plataforma de gestión de gimnasio con reservas, pagos y chat     | NestJS, Next.js, Tailwind, Docker   | [Repo](https://github.com/Sebaswolf31/PF-Extreme-Gym)  |
-| **E-commerce Backend**              | API RESTful para tienda en línea con CRUD de productos y órdenes | NestJS, TypeORM, PostgreSQL         | [Repo](https://github.com/Sebaswolf31/ecommerce-backend) |
+| **Extreme Gym**                     | Plataforma de gestión de gimnasio con reservas, pagos y chat     | NestJS, Next.js, Tailwind, Docker   | [Repo](https://github.com/Sebaswolf31/ExtremeGym)  |
+| **E-commerce Backend**              | API RESTful para tienda en línea con CRUD de productos y órdenes | NestJS, TypeORM, PostgreSQL         | [Repo](https://github.com/Sebaswolf31/e-commerce) |
 
 
 ---
@@ -55,8 +55,8 @@
 
 ## 📫 Contacto
 
-- 📧 Email: sebas@example.com
-- 💼 LinkedIn: [Sebaswolf31](https://www.linkedin.com/in/Sebaswolf31)
+- 📧 Email: sebasunivercal@hotmail.com || sebasunivercal@gmail.com 
+- 💼 LinkedIn: [Sebaswolf31]([https://www.linkedin.com/in/Sebaswolf31](https://www.linkedin.com/in/juan-sebastian-cardona-595449261/))
 
 
 > _"La única forma de hacer un gran trabajo es amar lo que haces."_
