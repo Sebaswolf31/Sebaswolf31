@@ -79,10 +79,7 @@
 <a href="mailto:sebasunivercal@gmail.com"><img src="https://img.shields.io/badge/Gmail-sebasunivercal@gmail.com-red?logo=gmail&logoColor=white" alt="Gmail"/></a> 
 <a href="https://www.linkedin.com/in/juan-sebastian-cardona-595449261/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<p align="center">
-  <!-- Contador de visitas limpio -->
-  <img src="https://komarev.com/ghpvc/?username=Sebaswolf31&color=blue" alt="Profile Views"/>
-</p>
+
 
 > _"La única forma de hacer un gran trabajo es amar lo que haces."_
 
