@@ -27,6 +27,40 @@
 
 ---
 
+
+
+## 🛠️ Habilidades
+
+<table align="center" width="100%">
+  <tr>
+    <th>Backend</th>
+    <th>Frontend</th>
+    <th>DevOps / DB</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js"/>
+      <br>**NestJS**, **Express**
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/>
+      <br>**React**, **Next.js**, **Tailwind CSS**
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+      <br>**Docker**, **AWS**, **PostgreSQL**
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🏆 Proyectos Destacados
 
 | Proyecto                            | Descripción                                                      | Tech Stack                          | Demo / Repo        |
