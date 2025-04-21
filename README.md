@@ -2,7 +2,7 @@
   <img src="https://github.com/Sebaswolf31/Sebaswolf31/blob/main/banner.png" alt="banner" width="80%"/>
 </p> -->
 
-# 👋 Hola, soy Juan Sebastián (Sebaswolf31)
+# 👋 Hola, soy Juan Sebastián Cardona (Sebaswolf31)
 **Full Stack Developer** | **NestJS** | **Next.js** | **React** | **TypeScript**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SebastianCardona-blue)](https://www.linkedin.com/in/juan-sebastian-cardona-595449261/) [![Email](https://img.shields.io/badge/Email-sebasunivercal@gmail.com-red?logo=gmail)](mailto:sebas@example.com)
