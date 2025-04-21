@@ -3,7 +3,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github.com/Sebaswolf31/Sebaswolf31/blob/main/assets/banner.gif" alt="Halo Banner" width="80%" height="auto"/>
+  <img src="https://github.com/Sebaswolf31/Sebaswolf31/blob/main/banner.gif" alt="Halo Banner" width="80%" height="auto"/>
 </p>
 
 # 👋 Hola, soy Juan Sebastián Cardona (Sebaswolf31)
@@ -68,7 +68,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sebaswolf31&theme=radical" alt="GitHub Streak" />
+  <!-- Contador de visitas mejorado -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Sebaswolf31.Sebaswolf31&title=Visitas+al+perfil" alt="Visitor Count"/>
 </p>
 
 ---
