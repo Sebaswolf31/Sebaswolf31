@@ -1,6 +1,6 @@
-/*<p align="center">
+<!--<p align="center">
   <img src="https://github.com/Sebaswolf31/Sebaswolf31/blob/main/banner.png" alt="banner" width="80%"/>
-</p>*/
+</p> -->
 
 # 👋 Hola, soy Juan Sebastián (Sebaswolf31)
 **Full Stack Developer** | **NestJS** | **Next.js** | **React** | **TypeScript**
