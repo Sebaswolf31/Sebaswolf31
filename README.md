@@ -52,7 +52,7 @@
 
 ## 📫 Contacto
 
-- 📧 Email: sebasunivercal@hotmail.com || sebasunivercal@gmail.com 
+- 📧  <a href="mailto:sebasunivercal@gmail.com"><img src="https://img.shields.io/badge/Gmail-sebasunivercal@gmail.com-red?logo=gmail&logoColor=white" alt="Gmail"/></a> 
 - 💼 LinkedIn: [Sebaswolf31]([https://www.linkedin.com/in/juan-sebastian-cardona-595449261]
 
 
