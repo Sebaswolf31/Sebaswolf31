@@ -53,8 +53,6 @@
 ## 📫 Contacto
 
 <a href="mailto:sebasunivercal@gmail.com"><img src="https://img.shields.io/badge/Gmail-sebasunivercal@gmail.com-red?logo=gmail&logoColor=white" alt="Gmail"/></a> 
-- 💼 LinkedIn: [Sebaswolf31]([https://www.linkedin.com/in/juan-sebastian-cardona-595449261]
-
 <a href="https://www.linkedin.com/in/juan-sebastian-cardona-595449261/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 > _"La única forma de hacer un gran trabajo es amar lo que haces."_
