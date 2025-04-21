@@ -18,6 +18,24 @@
 
 ---
 
+## 🎓 Formación Académica
+
+- **Tecnología en Sistemas Informáticos** – Finalizado en 2018  
+- **Curso Full Stack Developer – Soy Henry** – Actualmente en curso  
+
+---
+
+## 💼 Experiencia Laboral
+
+- **Operador de Soldadura** – EMSI (2013–2016)  
+- **Ayudante Electricista** – EMSI (2017–2019)  
+- **Ayudante Electricista** – DCA Ingeniería (Jul 2019 – Feb 2020)  
+- **Operador de Soldadura** – E2 Mantenimiento (2022–2023)  
+- **Operador** – Supertiendas Olímpica (Ago 2023 – Ago 2024)  
+- _Actualmente en búsqueda activa de nuevas oportunidades_  
+
+---
+
 ## 🛠️ Habilidades
 
 | Backend                                               | Frontend                                         | DevOps / DB                            |
