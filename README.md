@@ -20,11 +20,10 @@
 
 ## 🛠️ Habilidades
 
-| Backend                   | Frontend            | DevOps / DB       |
-| ------------------------- | ------------------- | ----------------- |
-| ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) NestJS | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) React.js      | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) TS | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) Next.js | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)      |
-| ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) Express.js | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)|
+| Backend                                               | Frontend                                         | DevOps / DB                            |
+| ----------------------------------------------------- | ------------------------------------------------ | -------------------------------------- |
+| <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" alt="Node.js"/> **NestJS**, **Express** | <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/> **React**, **Next.js**, **Tailwind CSS** | <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/> **Docker**, **AWS**, **PostgreSQL** |
+| <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/> |                                                  |                                        |
 
 ---
 
