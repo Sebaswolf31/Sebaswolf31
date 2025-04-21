@@ -80,7 +80,8 @@
 <a href="https://www.linkedin.com/in/juan-sebastian-cardona-595449261/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@Sebaswolf31?theme=classic" alt="Contador de visitas"/>
+  <!-- Contador de visitas limpio -->
+  <img src="https://komarev.com/ghpvc/?username=Sebaswolf31&color=blue" alt="Profile Views"/>
 </p>
 
 > _"La única forma de hacer un gran trabajo es amar lo que haces."_
