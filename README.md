@@ -10,7 +10,9 @@
 
 #### 🔭 Proyectos destacados:  
 1. **[API REST de e-commerce backend](https://github.com/Sebaswolf31/e-commerce)**  
-   - API de e-commerce, desde el backend para realizar ordenes de compras, productos, todo esto con usuarios y sus respectivos accesos. 
+   - API de e-commerce, desde el backend para realizar ordenes de compras, productos, todo esto con usuarios y sus respectivos accesos.
+2.  **[API REST ExtremeGym](https://github.com/Sebaswolf31/ExtremeGym)**
+   - API ExtremeGym, con tecnologías de nestjs y next, también con deploy, **(https://pf-extreme-gym.vercel.app/)**
 
 
 ### 📈 Estadísticas
