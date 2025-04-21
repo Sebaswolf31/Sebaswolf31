@@ -9,8 +9,8 @@
 - **Bases de datos:** MySQL, PostgreSQL.  
 
 #### 🔭 Proyectos destacados:  
-1. **[API REST de e-commerce backend](https://github.com/Sebaswolf31)**  
-   - API para gestión de usuarios con autenticación JWT, pedir turnos.
+1. **[API REST de e-commerce backend](https://github.com/Sebaswolf31/e-commerce)**  
+   - API de e-commerce, desde el backend para realizar ordenes de compras, productos, todo esto con usuarios y sus respectivos accesos. 
 
 
 ### 📈 Estadísticas
