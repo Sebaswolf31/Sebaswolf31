@@ -2,6 +2,10 @@
   <img src="https://github.com/Sebaswolf31/Sebaswolf31/blob/main/banner.png" alt="banner" width="80%"/>
 </p> -->
 
+<p align="center">
+  <img src="https://github.com/Sebaswolf31/Sebaswolf31/blob/main/assets/banner.gif" alt="Halo Banner" width="80%" height="auto"/>
+</p>
+
 # 👋 Hola, soy Juan Sebastián Cardona (Sebaswolf31)
 **Full Stack Developer** | **NestJS** | **Next.js** | **React** | **TypeScript**
 
@@ -73,6 +77,10 @@
 
 <a href="mailto:sebasunivercal@gmail.com"><img src="https://img.shields.io/badge/Gmail-sebasunivercal@gmail.com-red?logo=gmail&logoColor=white" alt="Gmail"/></a> 
 <a href="https://www.linkedin.com/in/juan-sebastian-cardona-595449261/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Sebaswolf31?theme=classic" alt="Contador de visitas"/>
+</p>
 
 > _"La única forma de hacer un gran trabajo es amar lo que haces."_
 
